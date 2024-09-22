@@ -31,7 +31,5 @@ python app.py
 ```
 
 GO TO:
-
-<$>[note]
 http://localhost:5000
-<$>
+

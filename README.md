@@ -1,5 +1,5 @@
-This is a digit recognizer model trained on mnist, This is used for a presentation to explain how neural networks work and how brians and neural networks work alike.
-(The presentation might be uploaded here later)
+This is a digit recognizer model trained on mnist, This is used for a presentation to explain how neural networks work and how brains and neural networks work alike.
+You'll can also have a look at the presentation uploaded as a pdf over here.
 
 
 COMMANDS:
